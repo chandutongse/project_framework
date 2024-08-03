@@ -6,7 +6,7 @@ public class StringClass {
 		//string is a class it is a collection of charector
 		//we treat string is a data type
 		//string hold alphanumeric value
-		
+		System.out.println("selected");
 	    int ram=10;
 	    String a="hari123";
 	    System.out.println(a);
